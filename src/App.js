@@ -10,6 +10,7 @@ import Teams from "./MyComponents/Teams/Teams";
 import './App.css';
 import AboutUs from "./MyComponents/AboutUs/AboutUs";
 import Events from "./MyComponents/Event/Events.js";
+import Event1 from "./MyComponents/Event/Event1/Event1.js";
 import WspGallery from "./MyComponents/WspGallery/WspGallery.js";
 import NEFest from "./MyComponents/Event/NEFest/NEFest.js";
 import Freshers from "./MyComponents/Event/Freshers/Freshers.js";
@@ -52,6 +53,7 @@ function App() {
           <Route exact path="/teams" element={<Teams />} />
           <Route exact path="/about-us" element={<AboutUs />} />
           <Route exact path="/events" element={<Events />} />
+          <Route exact path="/events/1" element={<Event1 />} />
           <Route exact path="/WspGallery" element={<WspGallery galleryImages={galleryImages}/>}/>
           <Route exact path="/events/north-east-festival" element={<NEFest />} />
           <Route exact path="/events/career-counselling" element={<CareerCounselling />} />
