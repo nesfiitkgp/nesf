@@ -1,33 +1,41 @@
 .partnerships {
-  padding: 2rem 0;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-  width: 100%;
-  height: 22rem;
-  /* height: 23rem; */
-  overflow-x: hidden;
-  position: relative;
+	padding: 2rem 0;
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	width: 100%;
+	/* height: 30vh; */
+	/* height: 23rem; */
+	overflow-x: hidden;
+	overflow-y: hidden;
+	position: relative;
 }
 
 .partnerships::after {
-  content: '';
-  position: absolute;
-  width: 100vw;
-  height: 100%;
-  top: 0;
-  left: -2rem;
-  pointer-events: none;
-  /* background: red; */
+	content: '';
+	position: absolute;
+	width: 100vw;
+	height: 100%;
+	top: 0;
+	left: -2rem;
+	pointer-events: none;
+	/* background: red; */
 
-  background: linear-gradient(to right, #fff, #fff1, #fff0, #fff1, #fff);
+	background: linear-gradient(to right, #fff, #fff1, #fff0, #fff1, #fff);
 }
 
 .sponsor {
-  /* width: 5rem; */
-  height: 5rem;
+	/* width: 5rem; */
+	/* height: 5rem; */
+	height: 30vh;
+}
+
+.sponsor img {
+	/* width: 100%; */
+	height: 100%;
+	object-fit: contain;
 }
 
 .sponsor:last-child {
-  margin-right: 5rem;
+	margin-right: 5rem;
 }

@@ -1,19 +1,19 @@
 import React, { useEffect } from 'react';
-import styles from './NorthEastFestival2024Banner.module.css';
+import styles from './MainBanner.module.css';
 import Tilt from 'react-parallax-tilt';
 import { SparklesCore } from './AceternitySparkles';
 
-const NorthEastFestival2024Banner = () => {
+const MainBanner = () => {
 	return (
 		<div className={styles.container}>
 			<div className={styles.marqueeText}>
 				{Array.from({ length: 20 }).map((_, index) => (
-					<span>{'Coming Soon ✨'}</span>
+					<span>{'Check out upcoming events ✨'}</span>
 				))}
 			</div>
 			<div className={styles.marqueeText}>
 				{Array.from({ length: 20 }).map((_, index) => (
-					<span>{'Coming Soon ✨'}</span>
+					<span>{'Check out upcoming events ✨'}</span>
 				))}
 			</div>
 			<Tilt className={styles.tiltContainer} glareEnable={true}>
@@ -35,4 +35,4 @@ const NorthEastFestival2024Banner = () => {
 	);
 };
 
-export default NorthEastFestival2024Banner;
+export default MainBanner;

@@ -118,13 +118,13 @@
 .marqueeText:first-child {
 	top: 0;
 	left: 0;
-	animation: marquee-ltr 20s linear infinite;
+	animation: marquee-ltr 60s linear infinite;
 }
 
 .marqueeText:nth-child(2) {
 	bottom: 0;
 	left: 0;
-	animation: marquee-ltr 20s linear infinite;
+	animation: marquee-ltr 60s linear infinite;
 }
 
 .marqueeText span:last-child {
