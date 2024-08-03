@@ -16,7 +16,7 @@ const Team={
         },
         {
             name:"Tasso Yaka",
-            image:"/sscom/Yaka.jpg"
+            image:"sscom/Yaka.jpg"
         },
         {
             name:"Manish Kumar Das",
@@ -38,7 +38,7 @@ const Team={
         },
         {
             name:"Zingya C Raman",
-            image:" "
+            image:"scoor/Zingya.jpeg"
         }
     ],
     studentsWelfareSeniorCoordinator:[
@@ -48,7 +48,7 @@ const Team={
         },
         {
             name:"H Zothanpuii",
-            image:" "
+            image:"scoor/Zothanpuii.jpeg"
         }
     ],
     eventsSeniorCoordinator:[
@@ -60,7 +60,7 @@ const Team={
     financeSeniorCoordinator:[
         {
             name:"Pranjal Baishya",
-            image:" "
+            image:"scoor/Pranjal.jpeg"
         }
     ],
     governors:[
@@ -80,7 +80,7 @@ const Team={
     executiveHead:[
         {
             name:"Benjamin Doley",
-            image:"https://media.licdn.com/dms/image/C4D03AQGAj_3HzX12Xg/profile-displayphoto-shrink_800_800/0/1650865328643?e=1708560000&v=beta&t=NPYaw8CDnPayMO6BrtV1Toi3MzFo9mjSPEvqqtbploo"
+            image:"Heads/Benjamin.jpeg"
         },
         {
             name:"Bijoy Timung",
@@ -146,7 +146,7 @@ const Team={
         },
         {
             name:"Penuel Daimari",
-            image:"sem/daimari.jpg"
+            image:"sem/Penuel.jpeg"
         },
         {
             name:"Chisanamba G Momin",
@@ -158,7 +158,7 @@ const Team={
         },
         {
             name:"Abinash Doley",
-            image:""
+            image:"sem/AbinashDoley.jpeg"
         },
         {
             name:"Kamma Donah",
@@ -212,15 +212,15 @@ const Team={
     jem:[
         {
             name:"Mintu Boro",
-            image:""
+            image:"jem/Mintu.jpeg"
         },
         {
             name:"Prithiviraj Nunisa",
-            image:""
+            image:"jem/Phrithiviraj.jpeg"
         },
         {
             name:"Mrithunjoy Basumatary",
-            image:""
+            image:"jem/Mrithunjoy.jpeg"
         },
         {
             name:"Abhinash Jimey",
@@ -228,11 +228,11 @@ const Team={
         },
         {
             name:"Kaling Tayeng",
-            image:""
+            image:"jem/Kaling.jpeg"
         },
         {
             name:"Bidisha Khakhlary",
-            image:""
+            image:"jem/Bidisha.jpeg"
         },
         {
             name:"Mehedi Hassan",
@@ -240,7 +240,7 @@ const Team={
         },
         {
             name:"Glory Narzari",
-            image:""
+            image:"jem/Glory.jpeg"
         },
         {
             name:"Biri Yachu",
