@@ -142,7 +142,7 @@ const Team={
     sem:[
         {
             name:"Pratiksha Boro",
-            image:"sem/Pratiksha.jpg"
+            image:"sem/Pratiksha.jpeg"
         },
         {
             name:"Penuel Daimari",
