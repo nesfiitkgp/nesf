@@ -5,7 +5,7 @@ import Card from './Card';
 const FinanceHead = () => {
     return ( 
             <div className={` ${styles.heads} ${styles.portfolio}`}>
-            <h2>FINANCE HEADS</h2>
+            <h2>FINANCE HEAD</h2>
             <div className={styles.items}>
                 {Team.financeHead?.map(person=>(
                         <Card

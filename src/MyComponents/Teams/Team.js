@@ -1,258 +1,252 @@
 const Team={
     president:[
         {
-            name:"Thokchom Preety Devi",
-            image:'sscom/Preety.jpg'
+            name:"Techi Tina Tara",
+            image:'president/Tina.jpg'
         }
     ],
     sscom:[
         {
-            name:"Ater Murtem",
-            image:"sscom/Ater.jpg"
-        },
-        {
-            name:"Deepraj Brahma",
-            image:"sscom/Deepraj.jpg"
-        },
-        {
-            name:"Tasso Yaka",
-            image:"sscom/Yaka.jpg"
-        },
-        {
-            name:"Manish Kumar Das",
-            image:"sscom/Manish.jpg"
-        },
-        {
-            name:"Phwilao Hazoary",
-            image:"sscom/Phwilao.jpg"
-        }
-    ],
-    mediaPublicitySeniorCoordinator: [
-        {
             name:"Rajdeep Thaosen",
-            image:"scoor/Rajdeep.jpeg"
-        },
-        {
-            name:"Reuben Sanname Lyndem",
-            image:"scoor/Reuben.jpeg"
+            image:"sscom/Rajdeep.jpeg"
         },
         {
             name:"Zingya C Raman",
-            image:"scoor/Zingya.jpeg"
-        }
-    ],
-    studentsWelfareSeniorCoordinator:[
-        {
-            name:"Moarenla Y Longkumer",
-            image:"scoor/Moarenla.jpg"
+            image:"sscom/Zingya.jpeg"
         },
         {
-            name:"H Zothanpuii",
-            image:"scoor/Zothanpuii.jpeg"
-        }
-    ],
-    eventsSeniorCoordinator:[
+            name:"Moarenla Longkumer",
+            image:"sscom/Moarenla.jpg"
+        },
         {
             name:"Trishna Das",
-            image:"scoor/Trishna.jpeg"
+            image:"sscom/Trishna.jpeg"
+        },
+        {
+            name:"Darshana Deka",
+            image:"sscom/Darshana.jpeg"
+        },
+        {
+            name:"Marian Lepcha",
+            image:"sscom/Mariam.jpeg"
+        },
+        {
+            name:"H. Zothanpuii",
+            image:"sscom/Zothanpuii.jpeg"
+        },
+        {
+            name:"Rose Merry Basumatary",
+            image:"sscom/Rose.jpeg"
         }
     ],
-    financeSeniorCoordinator:[
+    SeniorCoordinator: [
         {
-            name:"Pranjal Baishya",
-            image:"scoor/Pranjal.jpeg"
+            name:"Biki Verma",
+            image:"scoor/Biki.jpeg"
+        },
+        {
+            name:"Anupal Goswami",
+            image:"scoor/Anupal.jpeg"
+        },
+        {
+            name:"Lucy Venuh",
+            image:"scoor/Lucy.jpeg"
+        },
+        {
+            name:"Haripriya Boruah",
+            image:"scoor/Haripriya.jpeg"
+        },
+        {
+            name:"Liyanthung Ngullie",
+            image:"scoor/Liyanthung.jpeg"
+        },
+        {
+            name:"Geetanjali Basumatary",
+            image:"scoor/Geetanjali.jpeg"
         }
     ],
     governors:[
         {
-            name:"Geremsa Muchahary",
-            image:"Governors/Geremsa.jpg"
+            name:"Benjamin Doley",
+            image:"Governors/Benjamin.jpg"
         },
         {
-            name:"Jir Et Katharpi",
-            image:"Governors/JirEt.jpg"
+            name:"Bijoy Timung",
+            image:"Governors/Bijoy.jpg"
         },
         {
-            name:"Arnab Kumar Borah",
-            image:"Governors/Arnab.jpg"
+            name:"Deepraj Das",
+            image:"Governors/Deepraj.jpg"
+        },
+        {
+            name:"Mingma Rinzing Lepcha",
+            image:"Governors/Mingma.jpg"
+        },
+        {
+            name:"Vedic Dutta",
+            image:"Governors/Vedic.jpg"
         }
     ],
     executiveHead:[
         {
-            name:"Benjamin Doley",
-            image:"Heads/Benjamin.jpeg"
+            name:"Biswajit Das",
+            image:"Heads/Biswajit.jpg"
         },
         {
-            name:"Bijoy Timung",
-            image:"Heads/Bijoy.jpg"
+            name:"Pratiksha Boro",
+            image:"Heads/Pratiksha.jpeg"
         }
     ],
     mediaPublicityHead:[
         {
-            name:"Mingma Rinzing Lepcha",
-            image:"Heads/Mingma.jpg"
-        },
-        {
-            name:"Vedic Dutta",
-            image:"Heads/Vedic.jpg"
+            name:"Kamdek Kapnang",
+            image:"Heads/Kamdek.jpg"
         }
     ],
     financeHead:[
         {
-            name:"Techi Tina Tara",
-            image:"Heads/Tina.jpg"
-        },
-        {
-            name:"Tosanhame Jyrwa",
-            image:"Heads/Tosan.jpg"
+            name:"Shrewa Shree Konika P Bharti ",
+            image:"Heads/Shrewa.jpeg"
         }
     ],
     studentsWelfareHead:[
         {
-            name:"Geying Ratan",
-            image:"Heads/Geying.jpg"
+            name:"Pakde Pumbu",
+            image:"Heads/Pakde.jpg"
         },
-        {
-            name:"Deepraj Das",
-            image:"Heads/Deepraj.jpg"
-        },
-        {
-            name:"Tohuto Sema",
-            image:"Heads/Tohuto.jpg"
-        }
     ],
     eventsHead:[
         {
-            name:"Roshan Hali",
-            image:"Heads/Roshan.jpg"
+            name:"Likha Ang",
+            image:"Heads/Likha.jpg"
         },
         {
-            name:"Gedum Lego",
-            image:"Heads/Gedum.jpg"
+            name:"Jahnu Bora",
+            image:"Heads/Jahnu.jpeg"
+        }
+    ],
+    logisticsHead:[
+        {
+            name:"Abinash Doley",
+            image:"Heads/AbinashDoley.jpeg"
         },
         {
-            name:"Rajendra Daimary",
-            image:"Heads/Rajendra.jpg"
+            name:"Himangshu Sonowal",
+            image:"Heads/Himangshu.jpeg"
+        }
+    ],
+    webHead:[
+        {
+            name:"Gracy Debbarma",
+            image:"Heads/Gracy.jpg"
         },
         {
-            name:"Johan Doley",
-            image:"Heads/Johan.jpg"
+            name:"Penuel Daimari",
+            image:"Heads/Penuel.jpeg"
         }
     ],
     sem:[
         {
-            name:"Pratiksha Boro",
-            image:"sem/Pratiksha.jpeg"
+            name:"Mintu Boro",
+            image:"sem/Mintu.jpeg"
         },
         {
-            name:"Penuel Daimari",
-            image:"sem/Penuel.jpeg"
+            name:"Prithiviraj Nunisa",
+            image:"sem/Phrithiviraj.jpeg"
         },
         {
-            name:"Chisanamba G Momin",
-            image:"sem/chisa.jpg"
+            name:"Mrithunjoy Basumatary",
+            image:"sem/Mrithunjoy.jpeg"
         },
         {
-            name:"Biswajit Das",
-            image:"sem/Biswajit.jpg"
+            name:"Pratik Ghosh",
+            image:"sem/Pratik.jpeg"
         },
         {
-            name:"Abinash Doley",
-            image:"sem/AbinashDoley.jpeg"
+            name:"Abhinash Jimey",
+            image:"sem/Abhinash.jpg"
         },
         {
-            name:"Kamma Donah",
-            image:"sem/Donah.jpg"
+            name:"Repheka Pakyntein",
+            image:"sem/Repheka.jpeg"
         },
         {
-            name:"Harshadeep Mili",
-            image:"sem/Harshadeep.jpg"
+            name:"Kaling Tayeng",
+            image:"sem/Kaling.jpeg"
         },
         {
-            name:"Ritobroto Kalita",
-            image:"sem/Ritobroto.jpeg"
+            name:"Bidisha Khakhlary",
+            image:"sem/Bidisha.jpeg"
         },
         {
-            name:"Gracy Debbarma",
-            image:"sem/Gracy.jpg"
+            name:"Glory Narzari",
+            image:"sem/Glory.jpeg"
         },
         {
-            name:"Tuhsin Suhana Rahman",
-            image:"sem/Tuhsin.jpg"
+            name:"Biri Yachu",
+            image:"sem/Yachu.jpg"
         },
         {
-            name:"Pakde Pumbu",
-            image:"sem/Pakde.jpg"
+            name:"Awang P Yimupushu",
+            image:"sem/Awang.jpg"
         },
         {
-            name:"Shrewa Shree Konika P Bharti ",
-            image:"sem/Shrewa.jpeg"
-        },
-        {
-            name:"Karma Jangmu",
-            image:"sem/Karma.jpg"
-        },
-        {
-            name:"Toko Yani",
-            image:"sem/Yani.jpeg"
-        },
-        {
-            name:"Kamdek Kapnang",
-            image:"sem/Kamdek.jpg"
-        },
-        {
-            name:"Likha Ang",
-            image:"sem/Likha.jpg"
-        },
-        {
-            name:"Abhinash Barman",
-            image:"sem/Abinash.jpeg"
+            name:"Robiatnam N Marak",
+            image:"sem/Robi.jpg"
         }
     ],
     jem:[
         {
-            name:"Mintu Boro",
-            image:"jem/Mintu.jpeg"
+            name:"Hiran Jyoti Deori",
+            image:"jem/Hiran.jpeg"
         },
         {
-            name:"Prithiviraj Nunisa",
-            image:"jem/Phrithiviraj.jpeg"
+            name:"Soumar Jyoti Borah",
+            image:"jem/Soumar.jpeg"
         },
         {
-            name:"Mrithunjoy Basumatary",
-            image:"jem/Mrithunjoy.jpeg"
+            name:"Lakhyajit Basumatary",
+            image:"jem/Lakhyajit.jpeg"
         },
         {
-            name:"Abhinash Jimey",
-            image:"jem/Abhinash.jpg"
+            name:"Bidintha Basumatary",
+            image:"jem/Bidintha.jpeg"
         },
         {
-            name:"Kaling Tayeng",
-            image:"jem/Kaling.jpeg"
+            name:"Sandeep Sikia",
+            image:"jem/Sandeep.jpeg"
         },
         {
-            name:"Bidisha Khakhlary",
-            image:"jem/Bidisha.jpeg"
+            name:"Jeet Saha",
+            image:"jem/Jeet.jpeg"
         },
         {
-            name:"Mehedi Hassan",
-            image:"jem/Mehedhi.jpg"
+            name:"Satyam Chakravorty",
+            image:"jem/Satyam.jpeg"
         },
         {
-            name:"Glory Narzari",
-            image:"jem/Glory.jpeg"
+            name:"Keshab Kayal",
+            image:"jem/Keshab.jpeg"
         },
         {
-            name:"Biri Yachu",
-            image:"jem/Yachu_.jpg"
+            name:"Yugam Jain",
+            image:"jem/Yugam.jpeg"
         },
         {
-            name:"Awang P Yimupushu",
-            image:"jem/Awang.jpg"
+            name:"Manish Paul",
+            image:"jem/Manish.jpeg"
         },
         {
-            name:"Robiattam N. Marak",
-            image:"jem/Robiattam.jpg"
+            name:"Shashwat Gogoi",
+            image:"jem/Shashwat.jpeg"
+        },
+        {
+            name:"Sanjay Ray",
+            image:"jem/Sanjay.jpeg"
+        },
+        {
+            name:"Bijitgiri Basumatary",
+            image:"jem/Bijit.jpeg"
         }
     ]
 };

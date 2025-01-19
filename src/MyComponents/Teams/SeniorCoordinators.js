@@ -1,13 +1,13 @@
 import styles from './Teams.module.css';
 import Team from './Team.js';
-import Card from './Card';
+import Card from './Card.js';
 
-const MediaPublicitySeniorCoordinator = () => {
+const SeniorCoordinators = () => {
     return ( 
         <div className={` ${styles.seniorcoordinators} ${styles.portfolio}`}>
-        <h2>MEDIA AND PUBLICITY SENIOR COORDINATORS</h2>
+        <h2>SENIOR COORDINATORS</h2>
         <div className={styles.items}>
-            {Team.mediaPublicitySeniorCoordinator?.map(person=>(
+            {Team.SeniorCoordinator?.map(person=>(
                     <Card
                         name={person.name}
                         image={person.image}
@@ -18,4 +18,4 @@ const MediaPublicitySeniorCoordinator = () => {
      );
 }
  
-export default MediaPublicitySeniorCoordinator;
+export default SeniorCoordinators;
