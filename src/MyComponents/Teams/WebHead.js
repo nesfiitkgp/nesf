@@ -2,12 +2,12 @@ import styles from './Teams.module.css';
 import Team from './Team.js';
 import Card from './Card';
 
-const FinanceSeniorCoordinator = () => {
+const WebHead = () => {
     return ( 
-        <div className={` ${styles.seniorcoordinators} ${styles.portfolio}`}>
-        <h2>Finance SENIOR COORDINATOR</h2>
-        <div className={styles.items}>
-            {Team.financeSeniorCoordinator?.map(person=>(
+        <div className={` ${styles.heads} ${styles.portfolio}`}>
+            <h2>WEB HEADS</h2>
+            <div className={styles.items}>
+                {Team.webHead?.map(person=>(
                     <Card
                         name={person.name}
                         image={person.image}
@@ -18,4 +18,4 @@ const FinanceSeniorCoordinator = () => {
      );
 }
  
-export default FinanceSeniorCoordinator;
+export default WebHead;

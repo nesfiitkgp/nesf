@@ -5,7 +5,7 @@ import Card from './Card';
 const StudentsWelfareHead = () => {
     return ( 
         <div className={` ${styles.heads} ${styles.portfolio}`}>
-        <h2>STUDENTS' WELFARE HEADS</h2>
+        <h2>STUDENTS' WELFARE HEAD</h2>
         <div className={styles.items}>
             {Team.studentsWelfareHead?.map(person=>(
                 <Card

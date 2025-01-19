@@ -5,7 +5,7 @@ import Card from './Card';
 const MediaPubliityHead = () => {
     return ( 
         <div className={` ${styles.heads} ${styles.portfolio}`}>
-            <h2>MEDIA AND PUBLICITY HEADS</h2>
+            <h2>MEDIA AND PUBLICITY HEAD</h2>
             <div className={styles.items}>
                 {Team.mediaPublicityHead?.map(person=>(
                     <Card
