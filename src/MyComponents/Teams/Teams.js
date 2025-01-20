@@ -25,8 +25,8 @@ const Teams = () => {
             </div> */}
                 <President/>
                 <SSCOM/>
+                <SeniorCoordinators/>
                 <Governors/>
-                {/* <SeniorCoordinators/> */}
                 <ExecutiveHeads/>
                 <MediaPublicityHead/>
                 <FinanceHead/>
