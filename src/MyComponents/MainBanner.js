@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+// import React, { useEffect } from 'react';
 import styles from './MainBanner.module.css';
 import Tilt from 'react-parallax-tilt';
 import { SparklesCore } from './AceternitySparkles';
@@ -16,9 +16,9 @@ const MainBanner = () => {
 					<span>{'Check out upcoming events ✨'}</span>
 				))}
 			</div>
-			<Tilt className={styles.tiltContainer} glareEnable={true}>
+			<Tilt className={styles.tiltContainer}>
 				<div className={styles.banner}>
-					<img src="/events/northeastfestival20241.png" alt="" />
+					<img src="/events/Banner25.webp" alt="" />
 					<SparklesCore
 						id="tsparticlesfullpage"
 						background="transparent"
