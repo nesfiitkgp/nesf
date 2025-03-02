@@ -1,7 +1,7 @@
 import styles from './Home.module.css';
-import Hexagon from './Hexagon.js';
-import Map from './Map.js';
-import Slider from './Slider/Slider.js';
+// import Hexagon from './Hexagon.js';
+// import Map from './Map.js';
+// import Slider from './Slider/Slider.js';
 import Carousal from '../Carousal.js';
 import AboutUs from './AboutUs.js';
 import PreviousSponsorsCarousal from '../PreviousSponsorsCarousal.js';
@@ -29,7 +29,7 @@ const images = [
 
 const Home = () => {
 	// const splineScenePath = "https://prod.spline.design/REPDQ5Bd6aNHYsAg/scene.splinecode";
-	const motto = 'Spreading new ✨hopes✨ and smiles of sunrise to the nation';
+	const motto = 'Spreading new hope and smiles of sunrise to the nation';
 
 	// let slides = [
 	//     <img src="https://picsum.photos/800/300/?random" alt="1" />,
