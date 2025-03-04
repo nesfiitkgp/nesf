@@ -2,12 +2,12 @@ import styles from './Footer.module.css';
 
 const footerLinks = {
     quickLinks: [
-        {name: "About Us", link: "/about-us", disabled: false},
+        {name: "About Us", link: "/", disabled: false},
         {name: "Events", link: "/events", disabled: false},
-        {name: "Photo Gallery", link: "/photo-gallery", disabled: true},
+        {name: "Photo Gallery", link: "/", disabled: true},
         {name: "Partnerships", link: "/partnerships", disabled: false},
-        {name: "Alumni", link: "/alumni", disabled: true},
-        {name: "Constitution", link: "/constitution", disabled: true}
+        {name: "Alumni", link: "/", disabled: true},
+        {name: "Constitution", link: "/", disabled: true}
     ],
     events: [
         {name: "North East Festival", link: "/north-east-festival", disabled: false},
